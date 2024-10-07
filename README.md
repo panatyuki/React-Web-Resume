@@ -1,10 +1,14 @@
-* Panat Charoenchokdilok's React web resume *
-This project was created to practice my web development skills, And to serve for my coding and programming portfolio.
+# Panat Charoenchokdilok's React Web Resume
 
--- How to clone this project:
-step1 : Open VS Code and clone this project using the link from GitHub.
-step 2: Run the command "npm install".
-step 3: Run the command "npm run dev".
+This project was created to practice my web development skills and serve as a part of my coding and programming portfolio.
 
--- Or you can see on Vercel
-https://vercel.com/panatyukis-projects/react-web-resume
+## How to Clone This Project
+
+1. Open VS Code and clone this project using the link from GitHub.
+2. Run the command `npm install`.
+3. Run the command `npm run dev`.
+
+## View on Vercel
+
+You can also view the project live on Vercel:  
+[https://vercel.com/panatyukis-projects/react-web-resume](https://vercel.com/panatyukis-projects/react-web-resume)
